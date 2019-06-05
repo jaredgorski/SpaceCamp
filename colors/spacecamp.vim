@@ -309,3 +309,4 @@ call <sid>hi('yamlAlias', s:spaceWhite, s:none, 'none')
 call <sid>hi('yamlAnchor', s:spaceWhite, s:none, 'none')
 call <sid>hi('yamlDocumentHeader', s:spaceGreen, s:none, 'none')
 call <sid>hi('yamlKey', s:spaceGold, s:none, 'none')
+

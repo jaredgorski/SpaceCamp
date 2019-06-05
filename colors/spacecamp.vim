@@ -57,6 +57,7 @@ let s:spaceGoo = {'gui': '#D8FA3B', 'cterm256': '191'}
 let s:spaceGold = {'gui': '#F0D50C', 'cterm256': '220'}
 let s:spaceOrange = {'gui': '#F66100', 'cterm256': '202'}
 let s:spaceRed = {'gui': '#821A1A', 'cterm256': '1'}
+let s:spaceRed2 = {'gui': '#FF0000', 'cterm256': '196'}
 let s:none = {'gui': 'NONE', 'cterm256': 'NONE'}
 
 " ==========================
@@ -119,6 +120,19 @@ call <sid>hi('Todo', s:spaceGray3, s:none, 'inverse,bold')
 call <sid>hi('Type', s:none, s:none, 'none')
 call <sid>hi('Underlined', s:none, s:none, 'underline')
 call <sid>hi('WarningMsg', s:spaceWhite, s:spaceRed, 'none')
+
+" Diff Mode
+if &diff
+  call <sid>hi('DiffAdd', s:spaceBlack, s:spaceGreen, 'none')
+  call <sid>hi('DiffChange', s:spaceBlack, s:spaceGold, 'none')
+  call <sid>hi('DiffDelete', s:spaceRed2, s:spaceRed, 'none')
+  call <sid>hi('DiffText', s:spaceGray1, s:spaceBlue, 'none')
+else
+  call <sid>hi('DiffAdd', s:spaceGreen, s:none, 'none')
+  call <sid>hi('DiffChange', s:spaceGold, s:none, 'none')
+  call <sid>hi('DiffDelete', s:spaceRed2, s:none, 'none')
+  call <sid>hi('DiffText', s:spaceSteel, s:spaceBlue, 'none')
+endif
 
 " CSS
 call <sid>hi('cssAttr', s:spaceViolet, s:none, 'none')

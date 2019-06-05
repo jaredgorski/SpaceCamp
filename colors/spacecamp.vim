@@ -154,9 +154,20 @@ call <sid>hi('erubyRailsMethod', s:spaceOrange, s:none, 'none')
 " JavaScript
 call <sid>hi('jsFunction', s:spaceGold, s:none, 'none')
 call <sid>hi('jsThis', s:spaceBlue, s:none, 'none')
+call <sid>hi('jsVariableDef', s:spaceSteel, s:none, 'none')
 call <sid>hi('jsFuncArgs', s:spaceSteel, s:none, 'none')
-call <sid>hi('jsRegexpString', s:spaceBlue2, s:none, 'none')
+call <sid>hi('jsDestructuringBlock', s:spaceSteel, s:none, 'none')
+call <sid>hi('jsRegexpString', s:spaceRed, s:none, 'none')
 call <sid>hi('jsObjectKey', s:spaceSteel, s:none, 'none')
+
+call <sid>hi('jsGlobalObjects', s:spaceOrange, s:none, 'none')
+call <sid>hi('jsModuleKeyword', s:spaceSteel, s:none, 'none')
+call <sid>hi('jsClassDefinition', s:spaceBlue, s:none, 'none')
+call <sid>hi('jsClassKeyword', s:spaceGold, s:none, 'none')
+call <sid>hi('jsExtendsKeyword', s:spaceSteel, s:none, 'none')
+call <sid>hi('jsExportDefault', s:spaceViolet, s:none, 'none')
+call <sid>hi('jsFuncCall', s:spaceBlue, s:none, 'none')
+call <sid>hi('jsParen', s:spaceWhite, s:none, 'none')
 
 " YAML
 call <sid>hi('yamlKey', s:spaceGold, s:none, 'none')
@@ -165,11 +176,12 @@ call <sid>hi('yamlAlias', s:spaceWhite, s:none, 'none')
 call <sid>hi('yamlDocumentHeader', s:spaceGreen, s:none, 'none')
 
 " HTML
-call <sid>hi('htmlTag', s:none, s:none, 'none')
-call <sid>hi('htmlEndTag', s:none, s:none, 'none')
-call <sid>hi('htmlTagName', s:none, s:none, 'none')
-call <sid>hi('htmlArg', s:none, s:none, 'none')
-call <sid>hi('htmlSpecialChar', s:spaceGoo, s:none, 'none')
+call <sid>hi('htmlTag', s:spaceGray1, s:none, 'none')
+call <sid>hi('htmlEndTag', s:spaceGray1, s:none, 'none')
+call <sid>hi('htmlTagName', s:spaceBlue, s:none, 'none')
+call <sid>hi('htmlArg', s:spaceViolet, s:none, 'none')
+call <sid>hi('htmlSpecialChar', s:spaceBlue, s:none, 'none')
+call <sid>hi('htmlSpecialTagName', s:spaceBlue, s:none, 'none')
 
 " CSS
 call <sid>hi('cssURL', s:spaceBlue, s:none, 'none')

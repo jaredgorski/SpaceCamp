@@ -9,7 +9,7 @@
 "
 "
 " by Jared Gorski
-" https://github.com/jaredgorski
+" https://github.com/jaredgorski/spacecamp
 
 scriptencoding utf-8
 

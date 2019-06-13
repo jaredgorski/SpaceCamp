@@ -1,4 +1,4 @@
-# SpaceCamp <img align="left" width="100" height="100" src="/.media/spacecamp_logo.png">
+# SpaceCamp <img align="right" src="https://www.vim.org/images/vim_created.gif"><img align="left" width="100" height="100" src="/.media/spacecamp_logo.png">
 Vim colors for the final frontier.
 
 ![SpaceCamp Theme](/.media/spacecamp_demo.png)

@@ -81,7 +81,7 @@ call <sid>hi('Pmenu', s:none, s:none, 'none')
 call <sid>hi('PmenuSel', s:none, s:spaceGray2, 'none')
 call <sid>hi('Search', s:spaceBlack, s:spaceBlue, 'none')
 call <sid>hi('StatusLine', s:spaceBlack, s:spaceSteel, 'none')
-call <sid>hi('StatusLineNC', s:spaceBlack, s:spaceSteel, 'none')
+call <sid>hi('StatusLineNC', s:spaceGray3, s:spaceBlack2, 'none')
 call <sid>hi('VertSplit', s:spaceGray3, s:spaceGray3, 'none')
 call <sid>hi('Visual', s:none, s:spaceGray2, 'none')
 

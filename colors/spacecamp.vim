@@ -7,6 +7,7 @@
 " ███████║██║     ██║  ██║╚██████╗███████╗╚██████╗██║  ██║██║ ╚═╝ ██║██║
 " ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
 "
+"                 Vim colors for the final frontier
 "
 " by Jared Gorski
 " https://github.com/jaredgorski/spacecamp

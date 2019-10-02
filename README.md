@@ -3,7 +3,7 @@ Vim colors for the final frontier.
 
 ![SpaceCamp Theme](/.media/spacecamp_demo.png)
 ![Theme Swatch](/.media/spacecamp_colors.png)
-*Code screenshots taken from [Vimcolors](https://github.com/jaredgorski/Swatchmaker), swatch created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
+*Code screenshots taken from [Vimcolors](http://vimcolors.com/936/spacecamp/dark), swatch created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
 
 ## 🚀  Flight Instructions
 #### 📦  Basic Install (recommended if you're unfamiliar with plugin managers)

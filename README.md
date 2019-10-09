@@ -1,8 +1,8 @@
-# SpaceCamp <img align="right" src="https://www.vim.org/images/vim_created.gif"><img align="left" width="100" height="100" src="/.media/spacecamp_logo.png">
+# SpaceCamp <img align="right" src="https://www.vim.org/images/vim_created.gif"><img align="left" width="100" height="100" src="https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_logo.png">
 Vim colors for the final frontier.
 
-![SpaceCamp Theme](/.media/spacecamp_demo.png)
-![Theme Swatch](/.media/spacecamp_colors.png)
+![SpaceCamp Theme](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_demo.png)
+![Theme Swatch](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_colors.png)
 *Code screenshots taken from [Vimcolors](http://vimcolors.com/936/spacecamp/dark), swatch created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
 
 ## 🚀  Flight Instructions

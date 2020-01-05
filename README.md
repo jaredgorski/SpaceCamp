@@ -47,10 +47,10 @@ Plug 'jaredgorski/spacecamp'
     black:    '0x666666'
     red:      '0xFF0000'
     green:    '0xD8FA3B'
-    yellow:   '0xe7c547'
+    yellow:   '0xE7C547'
     blue:     '0xB7CBF4'
-    magenta:  '0xb77ee0'
-    cyan:     '0x54ced6'
+    magenta:  '0xB77EE0'
+    cyan:     '0x54CED6'
     white:    '0xF8F8F8'
 ```
 

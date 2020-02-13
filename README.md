@@ -34,7 +34,7 @@ Plug 'jaredgorski/spacecamp'
 #### Colors (use the config on OSX Terminal, Alacritty, etc.)
 ```
   normal: 
-    black:    '0x121212'
+    black:    '0x0f0f0f'
     red:      '0xD71A1A'
     green:    '0x57BA37'
     yellow:   '0xF0D50C'

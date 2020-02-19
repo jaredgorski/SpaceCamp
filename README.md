@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    SpaceCamp is an attractive, minimal, and legible colorscheme for Vim.
+    SpaceCamp is an attractive, comfortable, and legible colorscheme for Vim.
   </h3>
 </div>
 

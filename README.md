@@ -48,25 +48,33 @@ Plug 'jaredgorski/spacecamp'
 ### OSX Terminal, Alacritty, etc.
 
 ```
+  primary:
+    background: '0x121212'
+    foreground: '0xDEDEDE'
+
+  cursor:
+   text:        '0x0D0D0D'
+   cursor:      '0xD0D0D0'
+
   normal: 
-    black:    '0x121212'
-    red:      '0xD71A1A'
-    green:    '0x57BA37'
-    yellow:   '0xF0D50C'
-    blue:     '0x91AADF'
-    magenta:  '0xCF73E6'
-    cyan:     '0xB7CBF4'
-    white:    '0xDEDEDE'
+    black:      '0x282828'
+    red:        '0xD71A1A'
+    green:      '0x57BA37'
+    yellow:     '0xF0D50C'
+    blue:       '0x91AADF'
+    magenta:    '0xCF73E6'
+    cyan:       '0xB7CBF4'
+    white:      '0xDEDEDE'
 
   bright: 
-    black:    '0x666666'
-    red:      '0xFF0000'
-    green:    '0xD8FA3B'
-    yellow:   '0xE7C547'
-    blue:     '0xB7CBF4'
-    magenta:  '0xB77EE0'
-    cyan:     '0xA9C1DE'
-    white:    '0xF8F8F8'
+    black:      '0x666666'
+    red:        '0xFF0000'
+    green:      '0xD8FA3B'
+    yellow:     '0xE7C547'
+    blue:       '0xB7CBF4'
+    magenta:    '0xB77EE0'
+    cyan:       '0xA9C1DE'
+    white:      '0xF8F8F8'
 ```
 
 ![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)

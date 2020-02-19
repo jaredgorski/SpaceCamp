@@ -50,7 +50,7 @@ Plug 'jaredgorski/spacecamp'
 ```
   primary:
     background: '0x121212'
-    foreground: '0xDEDEDE'
+    foreground: '0xD0D0D0'
 
   cursor:
     text:       '0x0D0D0D'

@@ -1,12 +1,21 @@
-# SpaceCamp <img align="right" src="https://www.vim.org/images/vim_created.gif"><img align="left" width="100" height="100" src="https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_logo.png">
-Vim colors for the final frontier.
+![SpaceCamp logo](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_header_lt.svg?sanitize=true)
 
-![SpaceCamp Theme](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_demo.png)
-![Theme Swatch](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_colors.png)
-*Code screenshots taken from [Vimcolors](http://vimcolors.com/936/spacecamp/dark), swatch created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
+<div align="center">
+  <h3>
+    SpaceCamp is an attractive, minimal, and legible colorscheme for Vim.
+  </h3>
+</div>
 
-## 🚀  Flight Instructions
-#### 📦  Basic Install (recommended if you're unfamiliar with plugin managers)
+![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_preview.png)
+![SpaceCamp colors](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_colors.svg?sanitize=true)
+
+<div align="center">
+  <h2>
+    Flight Instructions
+  </h2>
+</div>
+
+### Basic Install (recommended if you're unfamiliar with plugin managers)
 1) Download this repository
 2) Unzip the downloaded file
 3) Copy the files `/colors/spacecamp.vim` and `/colors/spacecamp_lite.vim` into your Vim colors folder (found at `~/.vim/colors/`)
@@ -19,7 +28,7 @@ colorscheme spacecamp
 colorscheme spacecamp_lite
 ```
 
-#### 🔌  Vim Plug
+### Vim Plug
 1) Add the following to your plugs in your `.vimrc`:
 ```vim
 Plug 'jaredgorski/spacecamp'
@@ -27,14 +36,20 @@ Plug 'jaredgorski/spacecamp'
 2) Run `:PlugInstall`
 3) Follow **step 4** in the basic install (above) to load the desired colorscheme via your `.vimrc`
 
-## 🛰️  Terminal
-#### iTerm2
+<div align="center">
+  <h2>
+    Outside of Vim
+  </h2>
+</div>
+
+### iTerm2
 - Check out [@reobin](https://github.com/reobin)'s awesome work to bring SpaceCamp colors to iTerm2: [spacecamp-iterm](https://github.com/reobin/spacecamp-iterm)
 
-#### Colors (use the config on OSX Terminal, Alacritty, etc.)
+### OSX Terminal, Alacritty, etc.
+
 ```
   normal: 
-    black:    '0x0f0f0f'
+    black:    '0x121212'
     red:      '0xD71A1A'
     green:    '0x57BA37'
     yellow:   '0xF0D50C'
@@ -50,7 +65,7 @@ Plug 'jaredgorski/spacecamp'
     yellow:   '0xE7C547'
     blue:     '0xB7CBF4'
     magenta:  '0xB77EE0'
-    cyan:     '0x54CED6'
+    cyan:     '0xA9C1DE'
     white:    '0xF8F8F8'
 ```
 

@@ -74,7 +74,7 @@ Plug 'jaredgorski/spacecamp'
     blue:       '0xB7CBF4'
     magenta:    '0xB77EE0'
     cyan:       '0xA9C1DE'
-    white:      '0xF8F8F8'
+    white:      '0xEEEEEE'
 ```
 
 ![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)

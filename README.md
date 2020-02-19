@@ -53,8 +53,8 @@ Plug 'jaredgorski/spacecamp'
     foreground: '0xDEDEDE'
 
   cursor:
-   text:        '0x0D0D0D'
-   cursor:      '0xD0D0D0'
+    text:       '0x0D0D0D'
+    cursor:     '0xD0D0D0'
 
   normal: 
     black:      '0x282828'

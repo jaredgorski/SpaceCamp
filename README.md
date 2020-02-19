@@ -69,6 +69,8 @@ Plug 'jaredgorski/spacecamp'
     white:    '0xF8F8F8'
 ```
 
+![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
+
 --> ```Note: this theme is meant for 256 color terminal emulators.```
 
 ---

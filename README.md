@@ -42,8 +42,6 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
-![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
-
 ### Terminal emulator themes
 ```NOTE: These files may need to be renamed or pasted as snippets into the appropriate config file for your terminal emulator. See documentation for your particular terminal emulator. ```
 
@@ -93,6 +91,8 @@ colors:
   14:         '#A9C1DE'   # bright cyan
   15:         '#EEEEEE'   # bright white
 ```
+
+![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
 
 ---
 

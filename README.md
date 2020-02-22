@@ -42,7 +42,29 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
+### Terminal themes
+
+- [Alacritty](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_alacritty.yaml)
+- [Chrome Secure Shell](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_chrome-secure-shell.config)
+- [Gnome Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_gnome-terminal.sh)
+- [Guake](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_guake.config)
+- [Konsole](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_konsole.config)
+- [Linux Console](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_linux-console.sh)
+- [MinTTY](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_mintty.config)
+- [Putty](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.reg)
+- [Terminal.app](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.terminal)
+- [Terminator](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_terminator.config)
+- [Termite](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_termite.config)
+- [XFCE4 Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_xfce4.terminalrc)
+- [Xresources](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.Xresources)
+- [Xshell](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.xcs)
+- [iTerm2](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.itermcolors)
+- [iTerm2: spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) by [@reobin](https://github.com/reobin)
+- [st](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_st.c)
+
 ![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
+
+### Colors
 
 ```yaml
 colors:
@@ -70,26 +92,6 @@ colors:
   14:         '#A9C1DE'   # bright cyan
   15:         '#EEEEEE'   # bright white
 ```
-
-### Terminal themes
-
-- [Alacritty](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_alacritty.yaml)
-- [Chrome Secure Shell](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_chrome-secure-shell.config)
-- [Gnome Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_gnome-terminal.sh)
-- [Guake](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_guake.config)
-- [Konsole](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_konsole.config)
-- [Linux Console](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_linux-console.sh)
-- [MinTTY](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_mintty.config)
-- [Putty](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.reg)
-- [Terminal.app](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.terminal)
-- [Terminator](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_terminator.config)
-- [Termite](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_termite.config)
-- [XFCE4 Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_xfce4.terminalrc)
-- [Xresources](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.Xresources)
-- [Xshell](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.xcs)
-- [iTerm2](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.itermcolors)
-- [iTerm2: spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) by [@reobin](https://github.com/reobin)
-- [st](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_st.c)
 
 ---
 

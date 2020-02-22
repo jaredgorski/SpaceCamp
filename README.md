@@ -42,7 +42,10 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
-### Terminal themes
+![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
+
+### Terminal emulator themes
+```NOTE: These files may need to be renamed or pasted as snippets into the appropriate config file for your terminal emulator. See documentation for your particular terminal emulator. ```
 
 - [Alacritty](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_alacritty.yaml)
 - [Chrome Secure Shell](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_chrome-secure-shell.config)
@@ -61,8 +64,6 @@ Plug 'jaredgorski/spacecamp'
 - [iTerm2](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.itermcolors)
 - [iTerm2: spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) by [@reobin](https://github.com/reobin)
 - [st](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_st.c)
-
-![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
 
 ### Colors
 

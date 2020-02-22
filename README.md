@@ -42,44 +42,68 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
-### iTerm2
-- Check out [@reobin](https://github.com/reobin)'s awesome work to bring SpaceCamp colors to iTerm2: [spacecamp-iterm](https://github.com/reobin/spacecamp-iterm)
-
-### OSX Terminal, Alacritty, etc.
-
-```
-  primary:
-    background: '0x121212'
-    foreground: '0xD0D0D0'
-
-  cursor:
-    text:       '0x0D0D0D'
-    cursor:     '0xD0D0D0'
-
-  normal: 
-    black:      '0x282828'
-    red:        '0xD71A1A'
-    green:      '0x57BA37'
-    yellow:     '0xF0D50C'
-    blue:       '0x91AADF'
-    magenta:    '0xCF73E6'
-    cyan:       '0xB7CBF4'
-    white:      '0xDEDEDE'
-
-  bright: 
-    black:      '0x666666'
-    red:        '0xFF0000'
-    green:      '0xD8FA3B'
-    yellow:     '0xE7C547'
-    blue:       '0xB7CBF4'
-    magenta:    '0xB77EE0'
-    cyan:       '0xA9C1DE'
-    white:      '0xEEEEEE'
-```
-
 ![SpaceCamp preview](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_termcolors.png)
 
---> ```Note: this theme is meant for 256 color terminal emulators.```
+```yaml
+colors:
+  background: '#121212'
+  foreground: '#D0D0D0'
+
+  text:       '#0D0D0D'
+  cursor:     '#D0D0D0'
+
+  0:          '#282828'   # black
+  1:          '#D71A1A'   # red
+  2:          '#57BA37'   # green
+  3:          '#F0D50C'   # yellow
+  4:          '#91AADF'   # blue
+  5:          '#CF73E6'   # magenta
+  6:          '#B7CBF4'   # cyan
+  7:          '#DEDEDE'   # white
+
+  8:          '#666666'   # bright black
+  9:          '#FF0000'   # bright red
+  10:         '#D8FA3B'   # bright green
+  11:         '#E7C547'   # bright yellow
+  12:         '#B7CBF4'   # bright blue
+  13:         '#B77EE0'   # bright magenta
+  14:         '#A9C1DE'   # bright cyan
+  15:         '#EEEEEE'   # bright white
+```
+
+### Terminal themes
+
+- [Alacritty](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_alacritty.yaml)
+- [Chrome Secure Shell](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_chrome-secure-shell.config)
+- [Gnome Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_gnome-terminal.sh)
+- [Guake](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_guake.config)
+- [Konsole](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_konsole.config)
+- [Linux Console](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_linux-console.sh)
+- [MinTTY](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_mintty.config)
+- [Putty](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.reg)
+- [Terminal.app](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.terminal)
+- [Terminator](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_terminator.config)
+- [Termite](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_termite.config)
+- [XFCE4 Terminal](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_xfce4.terminalrc)
+- [Xresources](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.Xresources)
+- [Xshell](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.xcs)
+- [iTerm2](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp.itermcolors)
+- [iTerm2: spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) by [@reobin](https://github.com/reobin)
+- [st](https://github.com/jaredgorski/SpaceCamp/raw/master/terminal_themes/spacecamp_st.c)
+
+---
+
+### Contributing
+
+Please send me an email at jaredgorski6@gmail.com or open an issue. If you're feeling extra motivated, feel free to send pull requests and I'll review them. Keep in mind that I'll be fairly strict about changes, **but** I love contributors and definitely want to get _your_ name in there :smiley:
+
+### Acknowledgements
+
+- The [Blackboard](https://github.com/textmate/themes.tmbundle/blob/master/Themes/Blackboard.tmTheme) theme for textmate, which inspired the SpaceCamp look and feel
+- [@cocopon](https://github.com/cocopon)'s [iceberg.vim](https://github.com/cocopon/iceberg.vim), which is inspiring in general
+- [@zenorocha](https://github.com/zenorocha), for blessing us all with [Dracula](https://github.com/dracula/dracula-theme)
+- [@reobin](https://github.com/reobin/), for showing up on Reddit and kindly giving us [spacecamp-iterm](https://github.com/reobin/spacecamp-iterm)
+- [terminal.sexy](https://terminal.sexy), for helping me generate all the terminal themes
 
 ---
 

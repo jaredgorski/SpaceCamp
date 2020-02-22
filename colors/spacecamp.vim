@@ -331,7 +331,7 @@ call <sid>hi('TodoPriorityB', s:spaceGreen, s:none, 'none')
 call <sid>hi('TodoPriorityC', s:spaceGold, s:none, 'none')
 call <sid>hi('TodoProject', s:spaceViolet, s:none, 'none')
 call <sid>hi('TodoDate', s:spaceBlue, s:none, 'none')
-call <sid>hi('TodoContext', s:spaceBlue, s:none, 'none')
+call <sid>hi('TodoContext', s:spaceOrange, s:none, 'none')
 call <sid>hi('TodoDone', s:spaceGray3, s:none, 'none')
 
 " Buftabline

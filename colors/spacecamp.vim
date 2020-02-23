@@ -139,6 +139,34 @@ endif
 " Languages
 " ------------
 
+" C
+call <sid>hi('cConstant', s:spaceOrange, s:none, 'none')
+call <sid>hi('cFormat', s:spaceSteel, s:none, 'none')
+call <sid>hi('cMulti', s:spaceViolet, s:none, 'none')
+call <sid>hi('cNumbers', s:spaceGoo, s:none, 'none')
+call <sid>hi('cOperator', s:spaceViolet, s:none, 'none')
+call <sid>hi('cSpecial', s:spaceGoo, s:none, 'none')
+call <sid>hi('cSpecialCharacter', s:spaceGoo, s:none, 'none')
+call <sid>hi('cStatement', s:spaceViolet, s:none, 'none')
+call <sid>hi('cStorageClass', s:spaceGold, s:none, 'none')
+call <sid>hi('cString', s:spaceGreen, s:none, 'none')
+call <sid>hi('cStructure', s:spaceGold, s:none, 'none')
+call <sid>hi('cType', s:spaceBlue, s:none, 'none')
+
+" C++
+call <sid>hi('cppConstant', s:spaceOrange, s:none, 'none')
+call <sid>hi('cppFormat', s:spaceSteel, s:none, 'none')
+call <sid>hi('cppMulti', s:spaceViolet, s:none, 'none')
+call <sid>hi('cppNumbers', s:spaceGoo, s:none, 'none')
+call <sid>hi('cppOperator', s:spaceViolet, s:none, 'none')
+call <sid>hi('cppSpecial', s:spaceGoo, s:none, 'none')
+call <sid>hi('cppSpecialCharacter', s:spaceGoo, s:none, 'none')
+call <sid>hi('cppStatement', s:spaceViolet, s:none, 'none')
+call <sid>hi('cppStorageClass', s:spaceGold, s:none, 'none')
+call <sid>hi('cppString', s:spaceGreen, s:none, 'none')
+call <sid>hi('cppStructure', s:spaceGold, s:none, 'none')
+call <sid>hi('cppType', s:spaceBlue, s:none, 'none')
+
 " CSS
 call <sid>hi('cssAttr', s:spaceViolet, s:none, 'none')
 call <sid>hi('cssAttrRegion', s:spaceViolet, s:none, 'none')

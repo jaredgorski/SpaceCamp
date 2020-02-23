@@ -135,6 +135,10 @@ else
   call <sid>hi('DiffText', s:spaceSteel, s:spaceBlue, 'none')
 endif
 
+" ------------
+" Languages
+" ------------
+
 " CSS
 call <sid>hi('cssAttr', s:spaceViolet, s:none, 'none')
 call <sid>hi('cssAttrRegion', s:spaceViolet, s:none, 'none')
@@ -325,17 +329,24 @@ call <sid>hi('yamlAnchor', s:spaceWhite, s:none, 'none')
 call <sid>hi('yamlDocumentHeader', s:spaceGreen, s:none, 'none')
 call <sid>hi('yamlKey', s:spaceGold, s:none, 'none')
 
+
+
+" ------------
+" Plugins
+" ------------
+
 " todo.txt
+call <sid>hi('TodoContext', s:spaceOrange, s:none, 'none')
+call <sid>hi('TodoDate', s:spaceBlue, s:none, 'none')
+call <sid>hi('TodoDone', s:spaceGray3, s:none, 'none')
 call <sid>hi('TodoPriorityA', s:spaceGoo, s:none, 'none')
 call <sid>hi('TodoPriorityB', s:spaceGreen, s:none, 'none')
 call <sid>hi('TodoPriorityC', s:spaceGold, s:none, 'none')
 call <sid>hi('TodoProject', s:spaceViolet, s:none, 'none')
-call <sid>hi('TodoDate', s:spaceBlue, s:none, 'none')
-call <sid>hi('TodoContext', s:spaceOrange, s:none, 'none')
-call <sid>hi('TodoDone', s:spaceGray3, s:none, 'none')
 
 " Buftabline
-call <sid>hi('BufTabLineCurrent', s:spaceBlack, s:spaceGray4, 'none')
 call <sid>hi('BufTabLineActive', s:spaceSteel, s:spaceGray2, 'none')
-call <sid>hi('BufTabLineHidden', s:spaceGray3, s:spaceBlack2, 'none')
+call <sid>hi('BufTabLineCurrent', s:spaceBlack, s:spaceGray4, 'none')
 call <sid>hi('BufTabLineFill', s:spaceBlack, s:spaceBlack, 'none')
+call <sid>hi('BufTabLineHidden', s:spaceGray3, s:spaceBlack2, 'none')
+

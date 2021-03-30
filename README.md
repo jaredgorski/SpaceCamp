@@ -63,6 +63,7 @@ Plug 'jaredgorski/spacecamp'
 - [iTerm2](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp.itermcolors)
 - [iTerm2: spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) by [@reobin](https://github.com/reobin)
 - [st](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_st.c)
+- [FZF](https://github.com/jaredgorski/SpaceCamp/raw/master/.terminal_themes/spacecamp_FZF.zsh) by [@thuanpham2311](https://github.com/thuanpham2311)
 
 ### Colors
 

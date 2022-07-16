@@ -42,7 +42,7 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
-### Other editors
+### Ports to other editors
 
 - [Kakoune](https://github.com/haukkagu/spacecamp.kak) by [@haukkagu](https://github.com/haukkagu)
 

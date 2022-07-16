@@ -42,6 +42,10 @@ Plug 'jaredgorski/spacecamp'
   </h2>
 </div>
 
+### Other editors
+
+- [Kakoune](https://github.com/haukkagu/spacecamp.kak) by [@haukkagu](https://github.com/haukkagu)
+
 ### Terminal emulator themes
 ```NOTE: These files may need to be renamed or pasted as snippets into the appropriate config file for your terminal emulator. See documentation for your particular terminal emulator. ```
 
@@ -109,6 +113,7 @@ Please send me an email at jaredgorski6@gmail.com or open an issue. If you're fe
 - [@reobin](https://github.com/reobin/), for showing up on Reddit and kindly giving us [spacecamp-iterm](https://github.com/reobin/spacecamp-iterm)
 - [@sebastianks](https://github.com/sebastianks), for the random email and kindly giving us [spacecamp-kitty](https://github.com/sebastianks/spacecamp-kitty)
 - [terminal.sexy](https://terminal.sexy), for helping me generate all the terminal themes
+- [@haukkagu](https://github.com/haukkagu), for emailing me and writing a great [port for Kakoune](https://github.com/haukkagu/spacecamp.kak)
 
 ---
 

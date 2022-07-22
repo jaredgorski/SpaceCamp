@@ -1,0 +1,31 @@
+/*
+
+1. Go to Windows Settings and Open JSON file
+2. Copy the following code inside the schema tab in the JSON file
+3. Go to Default > Appearance and change Color Scheme to Spacecamp
+
+*/
+
+{
+  "background": "#121212",
+  "black": "#282828",
+  "blue": "#91AADF",
+  "brightBlack": "#666666",
+  "brightBlue": "#B7CBF4",
+  "brightCyan": "#A9C1DE",
+  "brightGreen": "#D8FA38",
+  "brightPurple": "#B77EE0",
+  "brightRed": "#FF0000",
+  "brightWhite": "#EEEEEE",
+  "brightYellow": "#E7C547",
+  "cursorColor": "#D0D0D0",
+  "cyan": "#B7CBF4",
+  "foreground": "#D0D0D0",
+  "green": "#57BA37",
+  "name": "Spacecamp",
+  "purple": "#CF73E6",
+  "red": "#D71A1A",
+  "selectionBackground": "#282828",
+  "white": "#DEDEDE",
+  "yellow": "#F0D50C"
+}

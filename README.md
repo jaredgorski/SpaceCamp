@@ -112,7 +112,7 @@ Please send me an email at jaredgorski6@gmail.com or open an issue. If you're fe
 - [@cocopon](https://github.com/cocopon)'s [iceberg.vim](https://github.com/cocopon/iceberg.vim), which is inspiring in general
 - [@zenorocha](https://github.com/zenorocha), for blessing us all with [Dracula](https://github.com/dracula/dracula-theme)
 - [@reobin](https://github.com/reobin/), for showing up on Reddit and kindly giving us [spacecamp-iterm](https://github.com/reobin/spacecamp-iterm)
-- [@sebastianks](https://github.com/sebastianks), for the random email and kindly giving us [spacecamp-kitty](https://github.com/sebastianks/spacecamp-kitty)
+- [@sebkolind](https://github.com/sebkolind), for the random email and kindly giving us [spacecamp-kitty](https://github.com/sebastianks/spacecamp-kitty)
 - [terminal.sexy](https://terminal.sexy), for helping me generate all the terminal themes
 - [@haukkagu](https://github.com/haukkagu), for emailing me and writing a great [port for Kakoune](https://github.com/haukkagu/spacecamp.kak)
 - [@techtuner](https://github.com/techtuner), for showing up in my email inbox and submitting the [Windows Terminal](https://github.com/jaredgorski/SpaceCamp/tree/master/.terminal_themes/spacecamp_windows_terminal.json) theme

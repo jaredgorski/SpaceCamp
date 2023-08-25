@@ -117,7 +117,7 @@ Please send me an email at jaredgorski6@gmail.com or open an issue. If you're fe
 - [terminal.sexy](https://terminal.sexy), for helping me generate all the terminal themes
 - [@haukkagu](https://github.com/haukkagu), for emailing me and writing a great [port for Kakoune](https://github.com/haukkagu/spacecamp.kak)
 - [@techtuner](https://github.com/techtuner), for showing up in my email inbox and submitting the [Windows Terminal](https://github.com/jaredgorski/SpaceCamp/tree/master/.terminal_themes/spacecamp_windows_terminal.json) theme
-
+- [@dinogomez](https://github.com/dinogomez), for making a [port for VS Code](https://github.com/dinogomez/SpaceCamp)
 ---
 
 Please feel free to drop a note to jaredgorski6@gmail.com if you have kudos or complaints. Now go push some code!
